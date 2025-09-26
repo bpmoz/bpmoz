@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Brian Pineda - Web Designer, Full Stack" width="100%">
+  <img src="banner.jpeg" alt="Brian Pineda - Web Designer, Full Stack" width="100%">
 </p>
 
 # Hi there 👋
