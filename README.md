@@ -11,7 +11,8 @@ Actualmente estoy en constante aprendizaje, practicando con nuevas tecnologías 
 ## 🛠️ Lenguajes y herramientas
 
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.dev/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://devicons.dev/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 </p>
